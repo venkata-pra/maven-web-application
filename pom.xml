@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Jfrog Repository</name>
-	      <url>http://172.31.144.1:8082/artifactory/libs-release-local/</url>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Jfrog Repository </name>
-	      <url>http://172.31.144.1:8082/artifactory/libs-snapshot-local/</url>
+	       <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
